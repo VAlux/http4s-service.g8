@@ -3,6 +3,10 @@ boot/
 lib_managed/
 src_managed/
 project/plugins/project/
+project/project/
+project/metals.sbt
 .metals
 .vscode
 .bsp
+.bloop
+.idea
